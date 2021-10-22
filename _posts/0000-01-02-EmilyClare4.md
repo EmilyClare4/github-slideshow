@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Thanks for coming to my Tedtalk"
 Use the left arrow to go back!
